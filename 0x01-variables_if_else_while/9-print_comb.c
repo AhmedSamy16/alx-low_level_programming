@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints all numbers between 0 to 9 inclusive with commas and spaces as separation
+ * main - Prints all numbers between 0 to 9 with commas and spaces
  *
  * Return: Always 0 (Success)
  */
