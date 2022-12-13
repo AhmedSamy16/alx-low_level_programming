@@ -4,4 +4,5 @@ The Tasks For the functions and Nested projects
 2-print_alphabet_x10.c => prints the alphabet in lowercase 10 times.
 3-islower.c => Checks if a letter is in lower case.
 4-isalpha.c => Checks if an input is alphabetical charachter.
+5-sign.c => prints the sign of a number.
 
