@@ -4,7 +4,6 @@ int main(void)
 {
 	/**
 	 * main - prints _putchar followed by a new line
-	 *
 	 * Return: Always 0 (Success)
 	 */
 	char name[] = "_putchar";
