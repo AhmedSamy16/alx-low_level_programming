@@ -6,4 +6,5 @@ The Tasks For the functions and Nested projects
 4-isalpha.c => Checks if an input is alphabetical charachter.
 5-sign.c => prints the sign of a number.
 6-abs.c => Return the absolute value of an integer.
+7-print_last_digit.c => prints the last digit of a number.
 
