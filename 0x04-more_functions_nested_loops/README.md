@@ -8,4 +8,5 @@
 7-print_diagonal.c => Draws a diagonal line in the terminal.
 8-print_square.c => Draws a square in the terminal.
 9-fizz_buzz.c => FizzBuzz Test.
+10-print_triangle.c => Draws a triangle in the terminal.
 
