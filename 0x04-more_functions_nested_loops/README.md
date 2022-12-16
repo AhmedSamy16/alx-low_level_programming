@@ -6,4 +6,5 @@
 5-more_numbers => Prints 10 times numbers from 0 - 14 .
 6-print_line => Draws a straight line in the terminal.
 7-print_diagonal.c => Draws a diagonal line in the terminal.
+8-print_square.c => Draws a square in the terminal.
 
