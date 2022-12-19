@@ -4,4 +4,5 @@
 3-puts.c => prints the string followed by a new line.
 4-print_rev.c => prints a string in reverse followed by a new line.
 5-rev_string.c => reverses a string.
+6-puts2.c => prints every other charachter of a string.
  
