@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - resets the value that int *n points to 98
- * @*n: a pointer to an address
+ * @n: a pointer to an address
  * retrun: no return
  */
 
