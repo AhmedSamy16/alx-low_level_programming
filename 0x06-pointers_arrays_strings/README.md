@@ -4,4 +4,5 @@
 3-strcmp.c => compares two strings and return 0 if they are equal and another number otherwise4-rev_array.c = > reverse an array on integers.
 5-string_toupper.c => turns a lowercase string to an uppercase.
 6-cap_string.c => capitalize all words of a string.
+7-leet.c => encodes a string to 1337.
 
