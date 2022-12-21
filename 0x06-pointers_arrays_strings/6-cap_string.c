@@ -9,7 +9,7 @@
 char *cap_string(char *s)
 {
 	int i, j;
-	char sep_word[] = {' ', '\n', '\t', ',', ';', '!', '?', '"', '.', '(', ')', '{'. '}'};
+	char sep_word[] = {' ', '\n', '\t', ',', ';', '!', '?', '"', '.', '(', ')', '{', '}'};
 
 	i = 0;
 
@@ -18,6 +18,7 @@ char *cap_string(char *s)
 		if (s[0] >= 97 && s[0] <= 122)
 		{
 			s[0] -= 32;
+			i++;
 			continue;
 		}
 		for (j = 0; j < 13; j++)
