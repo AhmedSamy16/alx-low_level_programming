@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_prime: detechts if a number is a prime
+ * is_prime: detects if a number is a prime
  * @n: the number to be evaluated
  * @i: the divisor
  * Reurn: 0 or 1
