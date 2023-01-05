@@ -16,12 +16,12 @@ int is_prime(int n, int i)
 		else
 			return (0);
 	}
-	return is_prime(n, i + 1);
+	return (is_prime(n, i + 1));
 }
 
 /**
  * is_prime_number - returns 1 if the input integer is a prime number,
- * 	 otherwise return 0.
+ * otherwise return 0.
  * @n: the number to be evaluated.
  * Return: int
  */
