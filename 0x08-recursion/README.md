@@ -6,4 +6,5 @@
 5-sqrt_recursion.c => return the natural square root of a number.
 6-is_prime_number.c => checks if a number is prime or not.
 100-is_palindrome.c => checks if a string is palindrome.
+101-wildcmp.c => checks if two strings are identical.
 
