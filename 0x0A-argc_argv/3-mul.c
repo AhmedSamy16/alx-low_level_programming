@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 /**
  * main - multiplies the arguments passed to the program
  * @argc: the number of arguments passed to the program.
