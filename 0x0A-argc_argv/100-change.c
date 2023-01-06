@@ -33,6 +33,6 @@ int main(int argc, char *argv[])
 		coins += 1;
 	}
 
-	printf("%d", coins);
+	printf("%d\n", coins);
 	return (0);
 }
