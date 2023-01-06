@@ -1,4 +1,3 @@
-#include "main.h"
 
 /**
  * main - prints the pograms's file name followed by a new line.
