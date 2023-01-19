@@ -2,7 +2,8 @@
 #define _HEADER_
 
 /**
- * struct op - Struct
+ * struct op - Struct op
+ *
  * @op: the operator
  * &f: the function assosciated
  */
