@@ -1,0 +1,1 @@
+Tasks of variadic functions
